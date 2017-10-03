@@ -8,7 +8,7 @@
 <body>
 <h1>
 <?php
-Welcome to your Sample PHP website
+echo "Welcome to your Sample PHP website";
 ?>
 </h1>
 <div id="content">
