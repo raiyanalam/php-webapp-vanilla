@@ -10,7 +10,7 @@ This is a sample PHP web application that you can deploy to Azure.
 
 ## License:
 
-See [License](https://www.visualstudio.com)
+See [LICENSE](LICENSE).
 
 ## Contributing
 
