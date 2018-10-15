@@ -5,7 +5,7 @@
 
 # Sample PHP web application
 
-This is a sample PHP web application that you can deploy to Azure.
+This is a sample PHP web application that you can deploy to Azure!!
 
 
 ## License:
