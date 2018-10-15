@@ -3,7 +3,7 @@
 | PHP |  | Azure Web App, Virtual Machine| |
 
 
-# Sample PHP web application
+# A sample PHP web app
 
 This is a sample PHP web application that you can deploy to Azure!!
 
